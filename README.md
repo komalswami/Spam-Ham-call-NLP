@@ -1,2 +1,4 @@
 # Data-science
-This is a basic data analysis on calls data.various libraries used are pandas,numpy,seaborn and matplotlib etc.
+Repo summary 
+
+This is a basic data analysis on calls data which is 991.csv file.Libraries used : pandas,numpy,seaborn and matplotlib etc.
